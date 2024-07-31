@@ -1,0 +1,48 @@
+/* src/DataTable.css */
+
+.data-table-container {
+  padding: 20px;
+  background-color: #333; /* Dark background */
+  color: #fff; /* White text */
+  border-radius: 8px;
+}
+
+.search-field {
+  margin-bottom: 16px;
+  background-color: #444; /* Slightly lighter background for input */
+  color: #fff; /* White text */
+}
+
+.heading {
+  font-size: 1.5em;
+  margin-bottom: 16px;
+  color: #fff; /* Header text color */
+  padding: 10px;
+  background-color: #444; /* Slightly lighter background for heading */
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Box shadow */
+}
+
+.MuiTableCell-head {
+  color: #fff; /* Header text color */
+}
+
+.MuiTableCell-body {
+  color: #fff; /* Body text color */
+}
+
+.MuiTablePagination-displayedRows {
+  color: #fff; /* Pagination text color */
+}
+
+.MuiTablePagination-select {
+  color: #fff; /* Rows per page text color */
+}
+
+.MuiInputBase-input {
+  color: #fff; /* White text in input fields */
+}
+
+.MuiSelect-select {
+  color: #fff; /* White text in dropdown select */
+}
